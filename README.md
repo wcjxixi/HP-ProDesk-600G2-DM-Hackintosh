@@ -1,7 +1,7 @@
 # HP-ProDesk-600G2-DM-Hackintosh
 HP ProDesk 600 G2 DM Hackintosh EFI
 
-我的机器配置和环境
+# 我的机器配置和环境
 
 机型：HP ProDesk 600 G2 DM
 
