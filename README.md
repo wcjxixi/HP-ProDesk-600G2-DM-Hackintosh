@@ -1,4 +1,3 @@
-# HP-ProDesk-600G2-DM-Hackintosh
 HP ProDesk 600 G2 DM Hackintosh EFI for OpenCore 0.6.3 正式版
 
 ## 我的机器配置
