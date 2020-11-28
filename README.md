@@ -1,7 +1,7 @@
 # HP-ProDesk-600G2-DM-Hackintosh
 HP ProDesk 600 G2 DM Hackintosh EFI
 
-# 我的机器配置
+## 我的机器配置
 
 机型：[HP ProDesk 600 G2 DM](https://support.hp.com/cn-zh/product/hp-prodesk-600-g2-desktop-mini-pc/8376393/model/8376394/document/c04844247)
 
@@ -15,3 +15,7 @@ HP ProDesk 600 G2 DM Hackintosh EFI
 + BIOS：N22 02.51 Rev.A（2020-11-06）
 
 适用系统：macOS Big Sur 11.0.1
+
+## 存在的问题
++ 睡眠后显示器无法唤醒，只能强制关机，目前无解。解决方法就是关闭睡眠（系统偏好设置 —> 节能，设置为永不关闭显示器）
++ 其他问题待发现
