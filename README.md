@@ -1,7 +1,7 @@
 # HP-ProDesk-600G2-DM-Hackintosh
 HP ProDesk 600 G2 DM Hackintosh EFI
 
-# 我的机器配置和环境
+# 我的机器配置
 
 机型：[HP ProDesk 600 G2 DM](https://support.hp.com/cn-zh/product/hp-prodesk-600-g2-desktop-mini-pc/8376393/model/8376394/document/c04844247)
 
@@ -14,4 +14,4 @@ HP ProDesk 600 G2 DM Hackintosh EFI
 + WLAN：BCM943224PCIBT2（最便宜的黑苹果 M.2 网卡，注意避坑：尽量不要买带 BX 后缀的，蓝牙无法驱动）
 + BIOS：N22 02.51 Rev.A（2020-11-06）
 
-macOS：Big Sur 11.0.1
+适用系统：macOS Big Sur 11.0.1
