@@ -18,11 +18,15 @@ HP ProDesk 600 G2 DM Hackintosh EFI for OpenCore 0.6.3 正式版
 OpenCore：0.6.3 正式版
 
 ## 存在的问题
+
 + 睡眠后显示器无法唤醒，只能强制关机，目前无解。解决方法就是关闭睡眠（系统偏好设置 —> 节能，设置为永不关闭显示器）
 + 其他问题待发现
 
 ## 我的博客
+
 [HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/13067.html)
 
 
-EFI 下载：见Release
+## EFI 下载
+
+见 Release
