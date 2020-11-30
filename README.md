@@ -23,3 +23,6 @@ OpenCore：0.6.3 正式版
 
 ## 我的博客
 [HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/13067.html)
+
+
+EFI 下载：见Release
