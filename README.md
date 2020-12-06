@@ -10,7 +10,8 @@ HP ProDesk 600 G2 DM Hackintosh EFI for OpenCore 0.6.3 正式版
 + 硬盘：海康威视 C2000Pro 512G 2280x1
 + 声卡：板载 Realtek ALC221
 + LAN：板载 Intel I210-T1 千兆
-+ WLAN：BCM943224PCIBT2+转接卡（最便宜的黑苹果 M.2 网卡，注意避坑：尽量不要买带 BX 后缀的，蓝牙无法驱动。[BCM943224PCIBT2+转接卡介绍](https://youtu.be/ycKhGNuPM2M)）
++ WLAN：BCM943224PCIBT2+转接卡（最便宜的黑苹果 M.2 网卡，注意避坑：尽量不要买带 BX 后缀的。[BCM943224PCIBT2+转接卡介绍](https://youtu.be/ycKhGNuPM2M)）
++ 芯片组：Q150
 + BIOS：N22 02.51 Rev.A（2020-11-06）
 
 适用系统：macOS Big Sur 11.0.1
