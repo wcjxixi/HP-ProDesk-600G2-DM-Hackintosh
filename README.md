@@ -1,4 +1,4 @@
-HP ProDesk 600 G2 DM Hackintosh EFI for OpenCore
+HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore）
 
 ## 适用系统
 
