@@ -37,4 +37,4 @@ HP ProDesk 600 G2 DM 这款机器大部分是锁蓝牙的，需要[解锁蓝牙]
 
 ## EFI 下载
 
-见 Release
+见 [Release](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/releases)
