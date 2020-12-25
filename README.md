@@ -1,4 +1,4 @@
-HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore）
+HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore），同时也支持 800 G2，并且[在 800 G2 下睡眠正常](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/issues/1)
 
 ## 适用系统
 
@@ -26,12 +26,13 @@ HP ProDesk 600 G2 DM 这款机器大部分是锁蓝牙的，需要[解锁蓝牙]
 
 ## 存在的问题
 
-+ 睡眠后显示器无法唤醒，只能强制关机，目前无解。解决方法就是关闭睡眠（系统偏好设置 —> 节能，设置为永不关闭显示器）
++ 睡眠后显示器无法唤醒，只能强制关机，目前无解。解决方法就是关闭睡眠（系统偏好设置 —> 节能，设置为永不关闭显示器）（[在 800 G2 下睡眠正常](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/issues/1)）
 + 其他问题待发现
 
 ## 我的博客
 
-[HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/13067.html)
++ [HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/13067.html)
++ [HP ProDesk 600 G2 DM 解除蓝牙锁](https://ppgg.in/13060.html)
 
 
 ## EFI 下载
