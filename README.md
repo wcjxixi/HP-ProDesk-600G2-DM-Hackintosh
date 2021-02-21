@@ -1,4 +1,4 @@
-HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore），同时也支持 800 G2，并且[在 800 G2 下睡眠正常](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/issues/1)
+HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore），同时也支持 800 G2，并且[在 800 G2 下睡眠正常](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/issues/1)。
 
 ## 适用系统
 
