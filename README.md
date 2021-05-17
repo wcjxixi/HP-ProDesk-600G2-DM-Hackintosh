@@ -2,11 +2,11 @@ HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore），同时也支持 800 G2，并
 
 ## 适用系统
 
-macOS Big Sur 11.0.1
+macOS Big Sur 11.3.1
 
 ## OpenCore
 
-0.6.3 正式版
+0.6.9 正式版
 
 ## 我的机器配置
 
