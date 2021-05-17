@@ -627,13 +627,13 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<integer>2147483648</integer>
+			<integer>2147483714</integer>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>3</integer>
+			<integer>67</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
