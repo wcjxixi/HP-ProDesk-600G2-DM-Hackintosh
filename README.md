@@ -2,7 +2,7 @@ HP ProDesk 600 G2 DM Hackintosh EFI（OpenCore），同时也支持 800 G2，并
 
 ## 适用系统
 
-macOS Big Sur 11.0.1（应该也适用于 macOS 11.3.1，若出现全部 USB 口不能使用请[参考](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/pull/3) ）
+macOS Big Sur 11.0.1（11.3.1 下若出现全部 USB 口不能使用请[参考](https://github.com/wcjxixi/HP-ProDesk-600G2-DM-Hackintosh/pull/3) ）
 
 ## OpenCore
 
