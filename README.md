@@ -31,5 +31,5 @@ HP ProDesk 600 G2 DM 这款机器大部分是锁蓝牙的，需要[解锁蓝牙]
 
 ## 相关链接
 
-+ [HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/13067.html)
-+ [HP ProDesk 600 G2 DM 解除蓝牙锁](https://ppgg.in/13060.html)
++ [HP ProDesk 600 G2 DM 黑苹果教程](https://ppgg.in/blog/13067.html)
++ [HP ProDesk 600 G2 DM 解除蓝牙锁](https://ppgg.in/blog/13060.html)
