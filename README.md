@@ -12,7 +12,7 @@ macOS Big Sur 11.0.1（11.3.1 下若出现全部 USB 口不能使用请[参考](
 
 机型：[HP ProDesk 600 G2 DM](https://support.hp.com/cn-zh/product/hp-prodesk-600-g2-desktop-mini-pc/8376393/model/8376394/document/c04844247)
 
-HP ProDesk 600 G2 DM 这款机器大部分是锁蓝牙的，需要[解锁蓝牙](https://ppgg.in/13060.html)
+HP ProDesk 600 G2 DM 这款机器大部分是锁蓝牙的，需要[解锁蓝牙](https://ppgg.in/blog/13060.html)
 
 + CPU：Intel Core i5-6600t @ 2.7GHz 4 核 4 线程
 + 内存：枭鲸 DDR4 2666Mhz 8GBx2
